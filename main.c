@@ -23,7 +23,7 @@ void print_array(int *arr, int size)
     for (i = 0; i < N_ELEMENTS(arr); ++i) {
         printf("%d ", arr[i]);
     }
-    printf("\n");
+    printf("\n"); 
 }
 
 int main()
